@@ -1,0 +1,112 @@
+Epoch ::  1
+Training Accuracy :: 0.51789045
+Validation Accuracy :: 0.54294187
+Epoch ::  2
+Training Accuracy :: 0.58411056
+Validation Accuracy :: 0.61231476
+Epoch ::  3
+Training Accuracy :: 0.6243394
+Validation Accuracy :: 0.6450615
+Epoch ::  4
+Training Accuracy :: 0.6416335
+Validation Accuracy :: 0.65339416
+Epoch ::  5
+Training Accuracy :: 0.651061
+Validation Accuracy :: 0.65741783
+Epoch ::  6
+Training Accuracy :: 0.6582514
+Validation Accuracy :: 0.65990454
+Epoch ::  7
+Training Accuracy :: 0.6644142
+Validation Accuracy :: 0.6576259
+Epoch ::  8
+Training Accuracy :: 0.6697621
+Validation Accuracy :: 0.66924065
+Epoch ::  9
+Training Accuracy :: 0.67330414
+Validation Accuracy :: 0.6734724
+Epoch ::  10
+Training Accuracy :: 0.6778954
+Validation Accuracy :: 0.6761806
+Epoch ::  11
+Training Accuracy :: 0.68157625
+Validation Accuracy :: 0.6810634
+Epoch ::  12
+Training Accuracy :: 0.68538934
+Validation Accuracy :: 0.6834461
+Epoch ::  13
+Training Accuracy :: 0.68830496
+Validation Accuracy :: 0.68713087
+Epoch ::  14
+Training Accuracy :: 0.69064397
+Validation Accuracy :: 0.6864932
+Epoch ::  15
+Training Accuracy :: 0.69306743
+Validation Accuracy :: 0.6892014
+Epoch ::  16
+Training Accuracy :: 0.6953198
+Validation Accuracy :: 0.69341975
+Epoch ::  17
+Training Accuracy :: 0.69806844
+Validation Accuracy :: 0.6943963
+Epoch ::  18
+Training Accuracy :: 0.70014083
+Validation Accuracy :: 0.6945004
+Epoch ::  19
+Training Accuracy :: 0.7028484
+Validation Accuracy :: 0.69819856
+Epoch ::  20
+Training Accuracy :: 0.7045847
+Validation Accuracy :: 0.69852406
+Epoch ::  21
+Training Accuracy :: 0.70731175
+Validation Accuracy :: 0.70080274
+Epoch ::  22
+Training Accuracy :: 0.70844984
+Validation Accuracy :: 0.7003732
+Epoch ::  23
+Training Accuracy :: 0.7106284
+Validation Accuracy :: 0.6993966
+Epoch ::  24
+Training Accuracy :: 0.7122086
+Validation Accuracy :: 0.70090675
+Epoch ::  25
+Training Accuracy :: 0.7145303
+Validation Accuracy :: 0.7029639
+Epoch ::  26
+Training Accuracy :: 0.71620595
+Validation Accuracy :: 0.7045915
+Epoch ::  27
+Training Accuracy :: 0.71885496
+Validation Accuracy :: 0.7082763
+Epoch ::  28
+Training Accuracy :: 0.7201729
+Validation Accuracy :: 0.70957834
+Epoch ::  29
+Training Accuracy :: 0.72157323
+Validation Accuracy :: 0.7105549
+Epoch ::  30
+Training Accuracy :: 0.72269183
+Validation Accuracy :: 0.7129376
+Epoch ::  31
+Training Accuracy :: 0.72435886
+Validation Accuracy :: 0.7132631
+Epoch ::  32
+Training Accuracy :: 0.72528446
+Validation Accuracy :: 0.7145652
+Epoch ::  33
+Training Accuracy :: 0.72671294
+Validation Accuracy :: 0.7155418
+Epoch ::  34
+Training Accuracy :: 0.72759306
+Validation Accuracy :: 0.7152162
+Epoch ::  35
+Training Accuracy :: 0.7281827
+Validation Accuracy :: 0.7183674
+Epoch ::  36
+Training Accuracy :: 0.72917765
+Validation Accuracy :: 0.7155418
+Epoch ::  37
+Training Accuracy :: 0.73098767
+Validation Accuracy :: 0.7151122
+Epoch ::  38
